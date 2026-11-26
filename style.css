@@ -45,8 +45,10 @@ div {
 }
 
 img {
+   img {
     width: 130px;
     height: 130px;
+    object-fit: cover;
     border-radius: 50%;
     border: 3px solid #0969da;
 }
