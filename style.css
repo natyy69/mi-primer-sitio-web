@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0f4f8;
@@ -37,4 +38,15 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid #0969da;
 }
